@@ -1,0 +1,67 @@
+.ReviewsBody{
+    display: flex;
+    background-color: #E3DFD4;
+    width: 100%;
+    height: 957px;
+    flex-direction: column;
+}
+.ReviewsBody1{
+    display: flex;
+    justify-content: center;
+}
+.ReviewsBodyP1{
+    display: flex;
+    font-family: "Reggae One";
+    font-size: 70px;
+    color: #2A4700;
+
+}
+.ReviewsBodyP2{
+    max-width: 860px;
+}
+.ReviewsBody2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ReviewsBody3{
+    display: flex;
+}
+.ReviewsBody4{
+    display: flex;
+    flex: 1 2;
+    justify-content: right;
+    align-items: end;
+
+}
+.ReviewsBody5{
+    flex: 1 2;
+
+}
+.ReviewsBody6{
+
+}
+.ReviewsBody7{
+    display: flex;
+}
+.ReviewsBody8{
+    flex: 1 2;
+}
+.ReviewsBody9{
+    flex: 1 2;
+}
+.ButtonReviews {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #f5ede8;
+    color: #000000;
+    border: 3px solid #f5ede8;
+    border-radius: 16px;
+    font-size: 16px;
+    padding: 12px 12px; ;
+    font-family: "Be Vietnam Pro";
+    font-size: 24px;
+}
+.ButtonReviews:hover{
+    text-decoration: none;
+}

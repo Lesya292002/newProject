@@ -1,0 +1,29 @@
+.Footer{
+    display: flex;
+    height: 100%;
+    width: 100%;
+
+    position: fixed;
+    background-color: #bdbcaf
+}
+.FooterSection1{
+    flex: 1 1;
+    text-align: center;
+
+}
+.FooterSection2{
+    flex: 1 1;
+    text-align: center;
+}
+.FooterSection3{
+    flex: 1 1;
+    text-align: center;
+}
+.FooterSection4{
+    flex: 1 1;
+    text-align: center;
+}
+p{
+    font-family: "Inter";
+    font-size: 24px;
+}
